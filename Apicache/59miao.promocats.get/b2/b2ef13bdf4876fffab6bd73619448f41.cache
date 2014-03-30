@@ -1,0 +1,1 @@
+a:1:{s:10:"promo_cats";a:1:{s:9:"promo_cat";a:4:{i:0;a:3:{s:3:"cid";s:2:"59";s:4:"name";s:7:"厨 具";s:10:"parent_cid";s:2:"33";}i:1;a:3:{s:3:"cid";s:2:"91";s:4:"name";s:7:"卫 浴";s:10:"parent_cid";s:2:"33";}i:2;a:3:{s:3:"cid";s:3:"137";s:4:"name";s:9:"大家电";s:10:"parent_cid";s:2:"33";}i:3;a:3:{s:3:"cid";s:3:"140";s:4:"name";s:9:"小家电";s:10:"parent_cid";s:2:"33";}}}}
